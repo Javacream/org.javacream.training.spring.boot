@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 http://maven.apache.org/xsd/settings-1.0.0.xsd">
+  <localRepository>d:/work/.m2/repository</localRepository>
+  <pluginGroups>
+  </pluginGroups>
+  <proxies>
+  </proxies>
+  <servers>
+  </servers>
+  <mirrors>
+    <mirror>
+      <id>nexus-mirror</id>
+      <name>Nexus Mirror</name>
+      <url>http://nbt9937v:8081/repository/maven-public/</url>
+      <mirrorOf>*</mirrorOf>
+    </mirror>
+  </mirrors>
+
+  <profiles>
+    <profile>
+  		<id>nrwbank</id>
+  		<activation>
+          <activeByDefault>true</activeByDefault>
+        </activation>
+      <repositories>
+      <repository>
+        <id>maven-releases</id>
+        <url>http://nbt9937v:8081/repository/maven-releases</url>
+        <layout>default</layout>
+        <releases>
+          <enabled>true</enabled>
+        </releases>
+        <snapshots>
+          <enabled>false</enabled>
+        </snapshots>
+      </repository>
+      <repository>
+        <id>maven-snapshots</id>
+        <url>http://nbt9937v:8081/repository/maven-snapshots</url>
+        <layout>default</layout>
+        <releases>
+          <enabled>false</enabled>
+        </releases>
+        <snapshots>
+          <enabled>true</enabled>
+        </snapshots>
+      </repository>
+      <repository>
+        <id>madeUp</id>
+        <url>http://central</url>
+        <releases>
+          <enabled>true</enabled>
+        </releases>
+        <snapshots>
+          <enabled>true</enabled>
+        </snapshots>
+      </repository>
+      </repositories>
+      <pluginRepositories>
+        <pluginRepository>
+          <id>central</id>
+          <name>Central Repository</name>
+          <url>http://nbt9937v:8081/repository/maven-central</url>
+          <layout>default</layout>
+          <snapshots>
+            <enabled>false</enabled>
+          </snapshots>
+          <releases>
+            <updatePolicy>never</updatePolicy>
+          </releases>
+        </pluginRepository>
+      </pluginRepositories>
+    </profile>
+  </profiles>
+
+  <activeProfiles>
+    <activeProfile>nrwbank</activeProfile>
+  </activeProfiles>
+</settings>
