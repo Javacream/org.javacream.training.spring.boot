@@ -2,34 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b2318e9-1a6f-4bf6-8039-e933adb989f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.spring.parent/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.spring.parent/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.spring.parent/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.spring.parent/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/de.nrwbank.javacream.training.greeter.app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/javacream/greeter/app/GreeterApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/javacream/greeter/app/GreeterBooter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/de.nrwbank.javacream.training.greeter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/src/main/java/org/javacream/greeter/GreeterConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/src/main/java/org/javacream/greeter/api/GreeterService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/src/main/java/org/javacream/greeter/impl/GreeterImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/src/test/java/org/javacream/greeter/GreeterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.spring.parent/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.batch/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.batch/src/main/java/org/javacream/app/batch/BatchBoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.batch/src/main/java/org/javacream/app/batch/BatchConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.batch/src/main/java/org/javacream/app/batch/BatchStarter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.echo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.echo/src/main/java/org/javacream/echo/EchoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.echo/src/main/java/org/javacream/echo/api/Echo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.echo/src/main/java/org/javacream/echo/impl/EchoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.greeter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.greeter/src/main/java/org/javacream/greeter/GreeterConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.greeter/src/main/java/org/javacream/greeter/api/Greeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.greeter/src/main/java/org/javacream/greeter/impl/FriendlyGreeterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.greeter/src/main/java/org/javacream/greeter/impl/GreeterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.greeter/src/test/java/org/javacream/greeter/test/GreeterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.app/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../de.nrwbank.javacream.spring.parent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.spring.parent/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../de.nrwbank.javacream.spring.parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.spring.parent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/src/test/java/org/javacream/greeter/GreeterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/src/test/java/org/javacream/greeter/GreeterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../settings.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -89,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/org/javacream/greeter/app/GreeterBooter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#297#298#0" expanded="true" />
@@ -198,6 +200,28 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="de.nrwbank.javacream.training.greeter.app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="de.nrwbank.javacream.training.greeter.app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: de.nrwbank:de.nrwbank.javacream.training.greeter:1.0-SNAPSHOT" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="de.nrwbank.javacream.training.greeter.app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: de.nrwbank:de.nrwbank.javacream.training.greeter:1.0-SNAPSHOT" type="70bed36:NamedLibraryElementNode" />
+              <item name="de.nrwbank.javacream.training.greeter-1.0-SNAPSHOT.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="de.nrwbank.javacream.training.greeter.app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: de.nrwbank:de.nrwbank.javacream.training.greeter:1.0-SNAPSHOT" type="70bed36:NamedLibraryElementNode" />
+              <item name="de.nrwbank.javacream.training.greeter-1.0-SNAPSHOT.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="greeter" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -212,7 +236,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545301183615" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545310732733" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/org/javacream" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -260,12 +284,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545300484388</updated>
-      <workItem from="1545300490270" duration="585000" />
+      <workItem from="1545300490270" duration="2503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="585000" />
+    <option name="totallyTimeSpent" value="2503000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
@@ -276,7 +300,7 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4168013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="FindBugs-IDEA" />
       <window_info anchor="bottom" id="Spring" />
@@ -333,7 +357,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/org/javacream/greeter/app/GreeterBooter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#297#298#0" expanded="true" />

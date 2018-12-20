@@ -75,7 +75,6 @@
       </pluginRepositories>
     </profile>
   </profiles>
-
   <activeProfiles>
     <activeProfile>nrwbank</activeProfile>
   </activeProfiles>

@@ -29,14 +29,14 @@
     <distributionManagement>
         <repository>
             <uniqueVersion>false</uniqueVersion>
-            <id>nexus</id>
+            <id>maven-releases</id>
             <name>Corporate Repository</name>
             <url>http://nbt9937v:8081/repository/maven-releases/</url>
             <layout>default</layout>
         </repository>
         <snapshotRepository>
             <uniqueVersion>true</uniqueVersion>
-            <id>nexus</id>
+            <id>maven-snapshots</id>
             <name>Corporate Snapshots</name>
             <url>http://nbt9937v:8081/repository/maven-snapshots/</url>
             <layout>legacy</layout>

@@ -14,7 +14,7 @@ public class GreeterTest {
     @Autowired private GreeterService greeterService;
     @Test public void testGreeter(){
         final String testName = "Hugo";
-        final String expectedResult = "Hello Hugo!";
+        final String expectedResult = "Hello Hugo!!!";
         final String result = greeterService.greet(testName);
         Assert.assertEquals(expectedResult, result);
     }
