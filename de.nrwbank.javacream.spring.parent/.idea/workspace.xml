@@ -2,36 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1537e976-63b4-49be-ab03-72d51f79fb75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.batch/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.batch/src/main/java/org/javacream/app/batch/BatchBoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.batch/src/main/java/org/javacream/app/batch/BatchConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.batch/src/main/java/org/javacream/app/batch/BatchStarter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.echo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.echo/src/main/java/org/javacream/echo/EchoConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.echo/src/main/java/org/javacream/echo/api/Echo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.echo/src/main/java/org/javacream/echo/impl/EchoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.greeter/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.greeter/src/main/java/org/javacream/greeter/GreeterConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.greeter/src/main/java/org/javacream/greeter/api/Greeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.greeter/src/main/java/org/javacream/greeter/impl/FriendlyGreeterImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.greeter/src/main/java/org/javacream/greeter/impl/GreeterImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.greeter/src/test/java/org/javacream/greeter/test/GreeterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.training.order/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.training.order/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.training.order/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.training.order/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.training.order/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.training.order/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.training.order/org.javacream.training.order.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.training.order/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.training.order/src/main/java/org/javacream/training/order/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.training.order/src/main/java/org/javacream/training/order/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.training.order/src/main/java/org/javacream/training/order/OrderConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.training.order/src/main/java/org/javacream/training/order/api/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.training.order/src/main/java/org/javacream/training/order/api/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.training.order/src/main/java/org/javacream/training/order/impl/SimpleOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.training.order/src/main/java/org/javacream/training/order/util/TracingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.training.order/src/main/resources/aop-beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.training.order/src/main/resources/order-beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.training.order/src/test/java/org/javacream/training/order/test/OrderTestNoSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.training.order/src/test/java/org/javacream/training/order/test/OrderTestSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org.javacream.training.order/src/test/java/org/javacream/training/order/test/OrderTestSpring2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter.app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter.app/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/src/test/java/org/javacream/greeter/GreeterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter/src/test/java/org/javacream/greeter/GreeterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.javacream.app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.javacream.app/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,48 +45,62 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="xml" value="2" />
+          <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="XML" value="2" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="xml" value="56" />
+          <entry key="xml" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="XML" value="56" />
+          <entry key="XML" value="64" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="322">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="mock:///de.nrwbank.javacream.spring.parent-effective-pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="1795" selection-start-line="1780" selection-end-line="1795" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../settings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="221">
+              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>aspectj</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -99,8 +108,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../settings.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -139,6 +148,15 @@
               <item name="de.nrwbank.javacream.spring.parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="de.nrwbank.javacream.spring.parent" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="de.nrwbank.javacream.spring.parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="de.nrwbank.javacream.spring.parent" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="de.nrwbank.javacream.spring.parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -149,7 +167,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545310732639" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545386525949" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../settings.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -177,12 +195,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545299714931</updated>
-      <workItem from="1545299716413" duration="3538000" />
+      <workItem from="1545299716413" duration="6390000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3538000" />
+    <option name="totallyTimeSpent" value="6390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
@@ -193,7 +211,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
@@ -203,7 +221,7 @@
       <window_info anchor="bottom" id="FindBugs-IDEA" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32988507" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32988507" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -226,18 +244,18 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    <entry file="file://$PROJECT_DIR$/../settings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="221">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../settings.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="322">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>

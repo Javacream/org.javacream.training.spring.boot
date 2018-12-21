@@ -2,36 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2178c487-e461-4780-8b45-9428d895093e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.spring.parent/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.batch/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.batch/src/main/java/org/javacream/app/batch/BatchBoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.batch/src/main/java/org/javacream/app/batch/BatchConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.batch/src/main/java/org/javacream/app/batch/BatchStarter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.echo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.echo/src/main/java/org/javacream/echo/EchoConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.echo/src/main/java/org/javacream/echo/api/Echo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.echo/src/main/java/org/javacream/echo/impl/EchoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.greeter/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.greeter/src/main/java/org/javacream/greeter/GreeterConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.greeter/src/main/java/org/javacream/greeter/api/Greeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.greeter/src/main/java/org/javacream/greeter/impl/FriendlyGreeterImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.greeter/src/main/java/org/javacream/greeter/impl/GreeterImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.greeter/src/test/java/org/javacream/greeter/test/GreeterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/org.javacream.app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.app/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../de.nrwbank.javacream.spring.parent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.spring.parent/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../de.nrwbank.javacream.spring.parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.spring.parent/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter.app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../de.nrwbank.javacream.training.greeter.app/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/javacream/greeter/GreeterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/javacream/greeter/GreeterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.javacream.app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.javacream.app/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,6 +18,7 @@
     <session id="1786787715">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -270,7 +244,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545310732671" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545376094395" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -342,7 +316,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -360,7 +333,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32988507" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32988507" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32988507" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
