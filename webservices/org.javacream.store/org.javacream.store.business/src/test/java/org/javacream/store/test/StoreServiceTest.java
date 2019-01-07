@@ -19,6 +19,21 @@ public class StoreServiceTest {
     @Test public void testStoreService(){
         Assert.assertTrue(storeService.getStock("this", "that") > 0);
     }
+    @Test public void testStoreService2(){
+        Assert.assertTrue(storeService.getStock("this", "that") > 0);
+    }
+    @Test public void testStoreService3(){
+        Assert.assertTrue(storeService.getStock("this", "that") > 0);
+    }
+    @Test public void testStoreService4(){
+        Assert.assertTrue(storeService.getStock("this", "that") > 0);
+    }
+    @Test public void testStoreService5(){
+        Assert.assertTrue(storeService.getStock("this", "that") > 0);
+    }
+    @Test public void testStoreService6(){
+        Assert.assertTrue(storeService.getStock("this", "that") > 0);
+    }
 
 }
 @Configuration
