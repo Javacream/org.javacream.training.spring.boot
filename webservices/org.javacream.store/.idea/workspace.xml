@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ec17ae1-b15a-49d9-b9e9-646db2861261" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/org.javacream.store.business/src/test/java/org/javacream/store/test/PlainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.javacream.store.business/src/test/java/org/javacream/store/test/StoreServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.business/src/test/java/org/javacream/store/test/StoreServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreWebService.java" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreWebService.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,13 +24,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="870" />
+          <entry key="java" value="955" />
           <entry key="xml" value="140" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="870" />
+          <entry key="JAVA" value="955" />
           <entry key="XML" value="140" />
         </counts>
       </usages-collector>
@@ -112,8 +109,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreWebService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+            <state relative-caret-position="306">
+              <caret line="18" column="79" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -350,7 +347,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546874220579" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546938297760" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -433,7 +430,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546867945276</updated>
-      <workItem from="1546867951850" duration="5539000" />
+      <workItem from="1546867951850" duration="7618000" />
     </task>
     <servers />
   </component>
@@ -470,7 +467,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5539000" />
+    <option name="totallyTimeSpent" value="7618000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
@@ -608,8 +605,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreWebService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        <state relative-caret-position="306">
+          <caret line="18" column="79" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
