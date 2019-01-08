@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-01-08T09:41:44.859+0000",
+  "status": 405,
+  "error": "Method Not Allowed",
+  "message": "Request method 'POST' not supported",
+  "path": "/store/dvd/1"
+}

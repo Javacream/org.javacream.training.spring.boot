@@ -1,0 +1,24 @@
+POST http://localhost:8080/store/dvd/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-08T104144.405.json
+
+###
+
+GET http://localhost:8080/store/dvd/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-08T104131.200.html
+
+###
+
+GET http://localhost:8080/store/dvd/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-08T103903.200.html
+
+###
+

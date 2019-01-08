@@ -2,6 +2,7 @@ package org.javacream.store.test;
 
 import org.javacream.store.api.StoreService;
 import org.junit.Assert;
+import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,25 +16,23 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class StoreServiceTest {
 
     @Autowired private StoreService storeService;
+    private static final String TEST_CAT = "TEST_CAT";
+    private static final String TEST_ID = "TEST_ID";
+    private static final int TEST_STOCK = 42;
+    @Before public void setUp(){
+        storeService.setStock(TEST_CAT, TEST_ID, TEST_STOCK);
+    }
 
-    @Test public void testStoreService(){
-        Assert.assertTrue(storeService.getStock("this", "that") > 0);
+    @Test public void testStoreServiceUnknownCategory(){
+        Assert.assertTrue(storeService.getStock("this", "that") == 0);
     }
-    @Test public void testStoreService2(){
-        Assert.assertTrue(storeService.getStock("this", "that") > 0);
+    @Test public void testStoreServiceUnknownId(){
+        Assert.assertTrue(storeService.getStock(TEST_CAT, "that") == 0);
     }
-    @Test public void testStoreService3(){
-        Assert.assertTrue(storeService.getStock("this", "that") > 0);
+    @Test public void testStoreServiceValidCatAndId(){
+        Assert.assertTrue(storeService.getStock(TEST_CAT, TEST_ID) == TEST_STOCK);
     }
-    @Test public void testStoreService4(){
-        Assert.assertTrue(storeService.getStock("this", "that") > 0);
-    }
-    @Test public void testStoreService5(){
-        Assert.assertTrue(storeService.getStock("this", "that") > 0);
-    }
-    @Test public void testStoreService6(){
-        Assert.assertTrue(storeService.getStock("this", "that") > 0);
-    }
+
 
 }
 @Configuration
