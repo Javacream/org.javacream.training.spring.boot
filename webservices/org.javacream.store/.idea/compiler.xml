@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="org.javacream.store.business" />
+        <module name="org.javacream.store.webservice.client" />
         <module name="org.javacream.store.webservice.rest" />
       </profile>
     </annotationProcessing>

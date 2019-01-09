@@ -11,6 +11,7 @@
     <modules>
         <module>org.javacream.store.business</module>
         <module>org.javacream.store.webservice.rest</module>
+        <module>org.javacream.store.webservice.client</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -43,6 +44,11 @@
                 <groupId>${project.groupId}</groupId>
                 <artifactId>org.javacream.store.business</artifactId>
             <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>${project.groupId}</groupId>
+                <artifactId>org.javacream.store.webservice.rest</artifactId>
+                <version>${project.version}</version>
             </dependency>
         </dependencies>
 
