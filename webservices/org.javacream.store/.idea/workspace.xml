@@ -2,14 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ec17ae1-b15a-49d9-b9e9-646db2861261" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/org.javacream.store.webservice.client/org.javacream.store.webservice.client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org.javacream.store.webservice.client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org.javacream.store.webservice.client/src/main/java/org/javacream/store/webservice/client/StoreServiceClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org.javacream.store.webservice.client/src/main/java/org/javacream/store/webservice/client/StoreServiceClientStarter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org.javacream.store.webservice/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.javacream.store.webservice.client/org.javacream.store.webservice.client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.client/org.javacream.store.webservice.client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.javacream.store.webservice.client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.javacream.store.webservice.client/src/main/java/org/javacream/store/webservice/client/StoreServiceClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.client/src/main/java/org/javacream/store/webservice/client/StoreServiceClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.javacream.store.webservice.client/src/main/java/org/javacream/store/webservice/client/StoreServiceClientStarter.java" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.client/src/main/java/org/javacream/store/webservice/client/StoreServiceClientStarter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.javacream.store.webservice.client/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.client/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.javacream.store.webservice.rest/org.javacream.store.webservice.rest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/org.javacream.store.webservice.rest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.javacream.store.webservice.rest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreWebService.java" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreWebService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/app/StoreServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/app/StoreServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.javacream.store.webservice.rest/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org.javacream.store.webservice.rest/src/test/java/org/javacream/store/webservice/rest/StoreWebServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/test/java/org/javacream/store/webservice/rest/StoreWebServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,6 +26,9 @@
     <ignored path="$PROJECT_DIR$/org.javacream.store.webservice.rest/target/" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <ignored path="$PROJECT_DIR$/org.javacream.store.webservice.client/target/" />
+    <ignored path="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.client/target/" />
+    <ignored path="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/target/" />
+    <ignored path="$PROJECT_DIR$/org.javacream.store.webservice/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,95 +45,88 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2700" />
+          <entry key="java" value="2712" />
           <entry key="json" value="50" />
           <entry key="properties" value="12" />
-          <entry key="xml" value="230" />
+          <entry key="xml" value="334" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2700" />
+          <entry key="JAVA" value="2712" />
           <entry key="JSON" value="50" />
           <entry key="Properties" value="12" />
-          <entry key="XML" value="230" />
+          <entry key="XML" value="334" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="1" />
           <entry key="http" value="2" />
-          <entry key="java" value="22" />
+          <entry key="java" value="27" />
           <entry key="json" value="2" />
-          <entry key="properties" value="3" />
+          <entry key="properties" value="4" />
           <entry key="resources" value="1" />
-          <entry key="xml" value="14" />
+          <entry key="xml" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="JAVA" value="22" />
+          <entry key="JAVA" value="27" />
           <entry key="JSON" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Properties" value="3" />
+          <entry key="Properties" value="4" />
           <entry key="Scratch" value="2" />
-          <entry key="XML" value="14" />
+          <entry key="XML" value="18" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreWebService.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/org.javacream.store.business/src/main/java/org/javacream/store/api/StoreService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="62" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.client/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+            <state relative-caret-position="274">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.client/src/main/java/org/javacream/store/webservice/client/StoreServiceClientStarter.java">
+        <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.client/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#268#269#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#577#578#0" expanded="true" />
-                <element signature="e#614#615#0" expanded="true" />
-              </folding>
             </state>
           </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.client/src/main/resources/application.properties">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-256">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.client/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="37" selection-start-column="37" selection-end-column="37" />
@@ -131,10 +135,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.client/src/main/java/org/javacream/store/webservice/client/StoreServiceClient.java">
+        <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.client/src/main/java/org/javacream/store/webservice/client/StoreServiceClientStarter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+            <state relative-caret-position="221">
+              <caret line="17" column="5" selection-start-line="15" selection-start-column="3" selection-end-line="17" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -143,46 +147,47 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreResult.java">
+        <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.client/src/main/java/org/javacream/store/webservice/client/StoreServiceClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="98" selection-start-line="15" selection-start-column="98" selection-end-line="15" selection-end-column="98" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreWebService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="83" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+              <folding>
+                <element signature="e#451#452#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreResult.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#132#133#0" expanded="true" />
-                <element signature="e#166#167#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.rest/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="21" selection-end-column="21" />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.rest/src/test/java/org/javacream/store/webservice/rest/StoreWebServiceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -225,12 +230,15 @@
         <option value="$PROJECT_DIR$/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreWebService.java" />
         <option value="$PROJECT_DIR$/org.javacream.store.webservice.client/src/main/java/org/javacream/store/webservice/client.java" />
         <option value="$PROJECT_DIR$/org.javacream.store.webservice.client/src/main/java/org/javacream/store/webservice/client/client.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/org.javacream.store.webservice.client/pom.xml" />
-        <option value="$PROJECT_DIR$/org.javacream.store.webservice.client/src/main/java/org/javacream/store/webservice/client/StoreServiceClient.java" />
         <option value="$PROJECT_DIR$/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreResult.java" />
         <option value="$PROJECT_DIR$/org.javacream.store.webservice.client/src/main/java/org/javacream/store/webservice/client/StoreServiceClientStarter.java" />
         <option value="$PROJECT_DIR$/org.javacream.store.webservice.client/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/org.javacream.store.webservice.client/src/main/java/org/javacream/store/webservice/client/StoreServiceClient.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/org.javacream.store.webservice/pom.xml" />
+        <option value="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.client/pom.xml" />
+        <option value="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/pom.xml" />
       </list>
     </option>
   </component>
@@ -273,72 +281,7 @@
             <path>
               <item name="org.javacream.store" type="b2602c69:ProjectViewProjectNode" />
               <item name="org.javacream.store" type="462c0819:PsiDirectoryNode" />
-              <item name="org.javacream.store.webservice.client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="org.javacream.store" type="b2602c69:ProjectViewProjectNode" />
-              <item name="org.javacream.store" type="462c0819:PsiDirectoryNode" />
-              <item name="org.javacream.store.webservice.client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="org.javacream.store" type="b2602c69:ProjectViewProjectNode" />
-              <item name="org.javacream.store" type="462c0819:PsiDirectoryNode" />
-              <item name="org.javacream.store.webservice.client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="org.javacream.store" type="b2602c69:ProjectViewProjectNode" />
-              <item name="org.javacream.store" type="462c0819:PsiDirectoryNode" />
-              <item name="org.javacream.store.webservice.client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="org.javacream.store" type="b2602c69:ProjectViewProjectNode" />
-              <item name="org.javacream.store" type="462c0819:PsiDirectoryNode" />
-              <item name="org.javacream.store.webservice.client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="org.javacream.store" type="b2602c69:ProjectViewProjectNode" />
-              <item name="org.javacream.store" type="462c0819:PsiDirectoryNode" />
-              <item name="org.javacream.store.webservice.rest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="org.javacream.store" type="b2602c69:ProjectViewProjectNode" />
-              <item name="org.javacream.store" type="462c0819:PsiDirectoryNode" />
-              <item name="org.javacream.store.webservice.rest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="org.javacream.store" type="b2602c69:ProjectViewProjectNode" />
-              <item name="org.javacream.store" type="462c0819:PsiDirectoryNode" />
-              <item name="org.javacream.store.webservice.rest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="org.javacream.store" type="b2602c69:ProjectViewProjectNode" />
-              <item name="org.javacream.store" type="462c0819:PsiDirectoryNode" />
-              <item name="org.javacream.store.webservice.rest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="org.javacream.store" type="b2602c69:ProjectViewProjectNode" />
-              <item name="org.javacream.store" type="462c0819:PsiDirectoryNode" />
-              <item name="org.javacream.store.webservice.rest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rest" type="462c0819:PsiDirectoryNode" />
+              <item name="org.javacream.store.webservice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -353,18 +296,19 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547029553012" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547031721396" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/org.javacream.store.webservice.client/src/main/java/org/javacream/store/webservice" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../newStore.json" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\NBE2638\IdeaProjects\org.javacream.training.spring.boot\webservices\org.javacream.store\org.javacream.store.webservice" />
       <recent name="C:\Users\NBE2638\IdeaProjects\org.javacream.training.spring.boot\webservices\org.javacream.store\org.javacream.store.business\src\test\resources" />
     </key>
   </component>
@@ -521,7 +465,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546867945276</updated>
-      <workItem from="1546867951850" duration="24589000" />
+      <workItem from="1546867951850" duration="27207000" />
     </task>
     <servers />
   </component>
@@ -558,11 +502,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24589000" />
+    <option name="totallyTimeSpent" value="27207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -570,7 +513,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="Web" sideWeight="0.50085765" side_tool="true" weight="0.24959612" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49914238" visible="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49914238" visible="true" weight="0.4701131" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="FindBugs-IDEA" weight="0.32988507" />
       <window_info anchor="bottom" id="REST Client" weight="0.545977" />
@@ -607,7 +550,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.rest/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/rest-api.http">
@@ -682,7 +625,7 @@
     <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.rest/generated/swagger-ui/swagger.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/app/StoreServiceApplication.java">
+    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/app/StoreServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
@@ -702,41 +645,10 @@
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreInfo.java">
+    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/test/java/org/javacream/store/webservice/rest/StoreWebServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-          <folding>
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.rest/src/test/java/org/javacream/store/webservice/rest/StoreWebServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
+        <state relative-caret-position="281">
           <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreWebService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -750,71 +662,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.rest/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.client/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.client/src/main/java/org/javacream/store/webservice/client/StoreServiceClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.client/src/main/java/org/javacream/store/webservice/client/StoreServiceClientStarter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice.client/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.client/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="37" selection-start-column="37" selection-end-column="37" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.client/src/main/java/org/javacream/store/webservice/client/StoreServiceClientStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="5" selection-start-line="15" selection-start-column="3" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreWebService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="83" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-256">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.client/src/main/java/org/javacream/store/webservice/client/StoreServiceClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="98" selection-start-line="15" selection-start-column="98" selection-end-line="15" selection-end-column="98" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
   </component>
   <component name="masterDetails">
@@ -868,7 +801,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>client|webservice|org.javacream.store</last-edited>
+          <last-edited>webservice|org.javacream.store</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

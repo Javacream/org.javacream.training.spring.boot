@@ -3,7 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/org.javacream.store.business" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/org.javacream.store.webservice.client" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/org.javacream.store.webservice.rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/org.javacream.store.webservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest" charset="UTF-8" />
   </component>
 </project>

@@ -10,8 +10,7 @@
 
     <modules>
         <module>org.javacream.store.business</module>
-        <module>org.javacream.store.webservice.rest</module>
-        <module>org.javacream.store.webservice.client</module>
+        <module>org.javacream.store.webservice</module>
     </modules>
     <packaging>pom</packaging>
 
