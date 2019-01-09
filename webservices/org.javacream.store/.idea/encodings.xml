@@ -6,5 +6,6 @@
     <file url="file://$PROJECT_DIR$/org.javacream.store.webservice" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.webservice.generated.client" charset="UTF-8" />
   </component>
 </project>

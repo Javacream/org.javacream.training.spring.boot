@@ -1,9 +1,12 @@
 package org.javacream.store.impl;
 
 import org.javacream.store.api.StoreService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.PostConstruct;
+import javax.persistence.EntityManager;
+import javax.persistence.PersistenceContext;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -11,8 +14,13 @@ import java.util.Map;
 public class SimpleStoreService implements StoreService {
     private Map<String, Map<String, Integer>> store;
 
+    @PersistenceContext
+    private EntityManager entityManager;
+
     @PostConstruct public void init(){
         store = new HashMap<>();
+        System.out.println("*************** " + entityManager);
+
     }
     @Override
     public int getStock(String category, String id) {
