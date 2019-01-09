@@ -19,7 +19,7 @@ public class StoreServiceApplication {
 
 
     @Bean
-    public Docket api() {
+    public Docket swaggerUi() {
         return new Docket(DocumentationType.SWAGGER_2)
                 .select()
                 .apis(RequestHandlerSelectors.basePackage("org.javacream.store.webservice.rest"))

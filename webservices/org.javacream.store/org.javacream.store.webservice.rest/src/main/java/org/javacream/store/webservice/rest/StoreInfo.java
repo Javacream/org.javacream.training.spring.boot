@@ -1,5 +1,7 @@
 package org.javacream.store.webservice.rest;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 public class StoreInfo {
     private String category;
     private String id;
@@ -14,6 +16,7 @@ public class StoreInfo {
         this.stock = stock;
     }
 
+    @JsonProperty("TheCategory")
     public String getCategory() {
         return category;
     }
