@@ -13,7 +13,7 @@
     <modules>
         <module>org.javacream.store.webservice.rest</module>
         <module>org.javacream.store.webservice.client</module>
-     <!--   <module>org.javacream.webservice.generated.client</module> -->
+        <module>org.javacream.webservice.generated.client</module>
     </modules>
     <dependencies>
         <dependency>

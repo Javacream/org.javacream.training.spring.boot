@@ -6,6 +6,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
@@ -19,9 +20,6 @@ public class StoreServiceTest {
     private static final String TEST_CAT = "TEST_CAT";
     private static final String TEST_ID = "TEST_ID";
     private static final int TEST_STOCK = 42;
-    @Before public void setUp(){
-        storeService.setStock(TEST_CAT, TEST_ID, TEST_STOCK);
-    }
 
     @Test public void testStoreServiceUnknownCategory(){
         Assert.assertTrue(storeService.getStock("this", "that") == 0);
@@ -37,6 +35,7 @@ public class StoreServiceTest {
 }
 @Configuration
 @ComponentScan(basePackages = "org.javacream.store")
+@EnableAutoConfiguration
 class StoreServiceTestConfiguration{
 
 }

@@ -10,16 +10,13 @@ import javax.persistence.PersistenceContext;
 import java.util.HashMap;
 import java.util.Map;
 
-@Service
+//@Service
 public class SimpleStoreService implements StoreService {
     private Map<String, Map<String, Integer>> store;
 
-    @PersistenceContext
-    private EntityManager entityManager;
 
     @PostConstruct public void init(){
         store = new HashMap<>();
-        System.out.println("*************** " + entityManager);
 
     }
     @Override

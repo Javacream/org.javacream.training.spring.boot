@@ -5,9 +5,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
 
+import javax.persistence.EntityManager;
+import javax.persistence.PersistenceContext;
+
 @RestController
 public class StoreWebService {
-
     @Autowired private StoreService storeService;
 
     @GetMapping(path="/store/{cat}/{id}", produces = MediaType.APPLICATION_JSON_VALUE) public StoreResult retrieveStock(@PathVariable("cat") String category, @PathVariable("id") String id){
