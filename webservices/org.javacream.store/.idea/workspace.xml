@@ -2,38 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ec17ae1-b15a-49d9-b9e9-646db2861261" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../org.javacream.books/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.books/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.books/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.books/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.books/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.books/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.books/org.javacream.books.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.books/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.books/src/main/java/org/javacream/books/BooksApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.books/src/main/java/org/javacream/books/data/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.books/src/main/java/org/javacream/books/data/BookUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.books/src/main/java/org/javacream/books/data/BooksRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.books/src/main/java/org/javacream/books/data/BooksService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.books/src/main/java/org/javacream/books/rest/BooksWebService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../org.javacream.books/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org.javacream.store.business/src/main/java/org/javacream/store/impl/JpaStoreService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org.javacream.store.business/src/test/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org.javacream.store.business/src/test/resources/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/main/resources/schema.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../newStore.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../newStore.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../org.javacream.jpa.demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.javacream.jpa.demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.javacream.books/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.javacream.books/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.javacream.books/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.javacream.books/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.javacream.store.business/src/main/java/org/javacream/store/impl/SimpleStoreService.java" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.business/src/main/java/org/javacream/store/impl/SimpleStoreService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.javacream.store.business/src/test/java/org/javacream/store/test/Dummy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.javacream.store.business/src/test/java/org/javacream/store/test/StoreServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.business/src/test/java/org/javacream/store/test/StoreServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreWebService.java" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/StoreWebService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/test/java/org/javacream/store/webservice/rest/StoreWebServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/test/java/org/javacream/store/webservice/rest/StoreWebServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org.javacream.store.webservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/org.javacream.store.webservice/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -55,6 +26,7 @@
     <session id="-5748319">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -164,7 +136,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/app/StoreServiceApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
+            <state relative-caret-position="306">
               <caret line="20" selection-start-line="20" selection-end-line="27" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -352,7 +324,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547133458784" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547195491206" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/org.javacream.store.webservice.client/src/main/java/org/javacream/store/webservice" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../newStore.json" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -527,7 +499,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546867945276</updated>
-      <workItem from="1546867951850" duration="46320000" />
+      <workItem from="1546867951850" duration="46327000" />
     </task>
     <servers />
   </component>
@@ -564,11 +536,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46320000" />
+    <option name="totallyTimeSpent" value="46327000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -589,7 +560,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42528737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42528737" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -923,7 +894,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/org.javacream.store.webservice/org.javacream.store.webservice.rest/src/main/java/org/javacream/store/webservice/rest/app/StoreServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
+        <state relative-caret-position="306">
           <caret line="20" selection-start-line="20" selection-end-line="27" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
